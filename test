@@ -1,0 +1,5 @@
+greeting = "Hello, World!" 
+print(greeting)
+
+welcome = "I'm Courtney Pigford"
+print(welcome)
