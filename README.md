@@ -1,3 +1,5 @@
+# Student Name: Courtney Pigford 
+
 # streaming-01-getting-started
 
 > Get started with Python for streaming analytics
